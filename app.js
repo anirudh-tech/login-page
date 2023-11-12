@@ -31,6 +31,6 @@ app.use((req,res,next)=>{
 
   
 
-app.listen(3001); 
+app.listen(3000); 
 
 module.exports = app
